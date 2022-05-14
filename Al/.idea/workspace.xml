@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2195a225-b968-4afd-b7f7-888c550a894c" name="Default Changelist" comment="" />
+    <list default="true" id="2195a225-b968-4afd-b7f7-888c550a894c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/q433_最小基因变化_mid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b课程m1/q1_切割绳子_mid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b课程m1/q2_买苹果_mid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b课程m1/q3_牛牛排队涂色_mid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b课程m1/q4_边框都是1的最大正方形_mid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b课程m1/q5_函数f返回函数g_mid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b课程m1/q6_二叉树个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b课程m1/q7_完整的括号字符串_mid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/字符串/q1816_截断句子_easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/q1725_可以形成最大正方形的矩形数目_easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B/B.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Al/Test/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/test1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +26,20 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -17,7 +47,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="27x2duCTFc3ruOAXBPJBV6xOcOr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,6 +59,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -33,13 +68,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.test1">
-    <configuration name="N皇后" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS.N皇后" />
+  <component name="RunManager" selected="Application.q7_完整的括号字符串_mid">
+    <configuration name="q3_牛牛排队涂色_mid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b课程m1.q3_牛牛排队涂色_mid" />
       <module name="Al" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFS.*" />
+          <option name="PATTERN" value="b课程m1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q398_随机数索引_mid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数学.q398_随机数索引_mid" />
+    <configuration name="q4_边框都是1的最大正方形_mid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b课程m1.q4_边框都是1的最大正方形_mid" />
       <module name="Al" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数学.*" />
+          <option name="PATTERN" value="b课程m1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q744_寻找比目标字母大的最小字母_easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="二分法.q744_寻找比目标字母大的最小字母_easy" />
+    <configuration name="q5_函数f返回函数g_mid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b课程m1.q5_函数f返回函数g_mid" />
       <module name="Al" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="二分法.*" />
+          <option name="PATTERN" value="b课程m1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q868_二进制间距_easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数学.q868_二进制间距_easy" />
+    <configuration name="q6_二叉树个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b课程m1.q6_二叉树个数" />
       <module name="Al" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数学.*" />
+          <option name="PATTERN" value="b课程m1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.test1" />
+    <configuration name="q7_完整的括号字符串_mid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b课程m1.q7_完整的括号字符串_mid" />
       <module name="Al" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="b课程m1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test1" />
-        <item itemvalue="Application.q744_寻找比目标字母大的最小字母_easy" />
-        <item itemvalue="Application.q398_随机数索引_mid" />
-        <item itemvalue="Application.q868_二进制间距_easy" />
-        <item itemvalue="Application.N皇后" />
+        <item itemvalue="Application.q7_完整的括号字符串_mid" />
+        <item itemvalue="Application.q6_二叉树个数" />
+        <item itemvalue="Application.q5_函数f返回函数g_mid" />
+        <item itemvalue="Application.q4_边框都是1的最大正方形_mid" />
+        <item itemvalue="Application.q3_牛牛排队涂色_mid" />
       </list>
     </recent_temporary>
   </component>
@@ -123,6 +158,10 @@
       <workItem from="1650251360051" duration="39247000" />
       <workItem from="1650593503885" duration="20267000" />
       <workItem from="1650796865785" duration="21089000" />
+      <workItem from="1651712769942" duration="3227000" />
+      <workItem from="1651894141017" duration="23090000" />
+      <workItem from="1652443921009" duration="3080000" />
+      <workItem from="1652491685378" duration="25377000" />
     </task>
     <servers />
   </component>
@@ -134,6 +173,10 @@
       <screen x="0" y="0" width="1440" height="870" />
     </state>
     <state x="174" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.870@0.0.1440.870" timestamp="1650250647664" />
+    <state x="952" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1652444808406">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="952" y="157" key="#com.intellij.ide.util.MemberChooser/0.0.1440.870@0.0.1440.870" timestamp="1652444808406" />
     <state x="450" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1650977152544">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
@@ -142,57 +185,61 @@
       <screen x="0" y="0" width="1440" height="870" />
     </state>
     <state x="471" y="205" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.870@0.0.1440.870" timestamp="1650423119799" />
-    <state x="417" y="146" key="FileChooserDialogImpl" timestamp="1650797233532">
+    <state x="417" y="146" key="FileChooserDialogImpl" timestamp="1652533954783">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state x="417" y="146" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1650797233532" />
-    <state width="1397" height="157" key="GridCell.Tab.0.bottom" timestamp="1650977824654">
+    <state x="417" y="146" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1652533954783" />
+    <state width="1397" height="113" key="GridCell.Tab.0.bottom" timestamp="1652534241391">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1397" height="157" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1650977824654" />
-    <state width="1397" height="157" key="GridCell.Tab.0.center" timestamp="1650977824654">
+    <state width="1397" height="113" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1652534241391" />
+    <state width="1397" height="113" key="GridCell.Tab.0.center" timestamp="1652534241391">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1397" height="157" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1650977824654" />
-    <state width="1397" height="157" key="GridCell.Tab.0.left" timestamp="1650977824654">
+    <state width="1397" height="113" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1652534241391" />
+    <state width="1397" height="113" key="GridCell.Tab.0.left" timestamp="1652534241391">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1397" height="157" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1650977824654" />
-    <state width="1397" height="157" key="GridCell.Tab.0.right" timestamp="1650977824654">
+    <state width="1397" height="113" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1652534241391" />
+    <state width="1397" height="113" key="GridCell.Tab.0.right" timestamp="1652534241391">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1397" height="157" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1650977824654" />
-    <state width="1397" height="157" key="GridCell.Tab.1.bottom" timestamp="1650977824655">
+    <state width="1397" height="113" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1652534241391" />
+    <state width="672" height="203" key="GridCell.Tab.1.bottom" timestamp="1652527115332">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1397" height="157" key="GridCell.Tab.1.bottom/0.0.1440.870@0.0.1440.870" timestamp="1650977824655" />
-    <state width="1397" height="157" key="GridCell.Tab.1.center" timestamp="1650977824654">
+    <state width="672" height="203" key="GridCell.Tab.1.bottom/0.0.1440.870@0.0.1440.870" timestamp="1652527115332" />
+    <state width="672" height="203" key="GridCell.Tab.1.center" timestamp="1652527115332">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1397" height="157" key="GridCell.Tab.1.center/0.0.1440.870@0.0.1440.870" timestamp="1650977824654" />
-    <state width="1397" height="157" key="GridCell.Tab.1.left" timestamp="1650977824654">
+    <state width="672" height="203" key="GridCell.Tab.1.center/0.0.1440.870@0.0.1440.870" timestamp="1652527115332" />
+    <state width="672" height="203" key="GridCell.Tab.1.left" timestamp="1652527115332">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1397" height="157" key="GridCell.Tab.1.left/0.0.1440.870@0.0.1440.870" timestamp="1650977824654" />
-    <state width="1397" height="157" key="GridCell.Tab.1.right" timestamp="1650977824654">
+    <state width="672" height="203" key="GridCell.Tab.1.left/0.0.1440.870@0.0.1440.870" timestamp="1652527115332" />
+    <state width="672" height="203" key="GridCell.Tab.1.right" timestamp="1652527115332">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1397" height="157" key="GridCell.Tab.1.right/0.0.1440.870@0.0.1440.870" timestamp="1650977824654" />
+    <state width="672" height="203" key="GridCell.Tab.1.right/0.0.1440.870@0.0.1440.870" timestamp="1652527115332" />
     <state x="98" y="25" key="SettingsEditor" timestamp="1650886064630">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
     <state x="98" y="25" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1650886064630" />
-    <state x="412" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1650796863635">
+    <state x="412" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1652443969419">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state x="412" y="262" key="com.intellij.ide.util.TipDialog/0.0.1440.870@0.0.1440.870" timestamp="1650796863635" />
-    <state x="94" y="51" key="new project wizard" timestamp="1650250887317">
+    <state x="412" y="262" key="com.intellij.ide.util.TipDialog/0.0.1440.870@0.0.1440.870" timestamp="1652443969419" />
+    <state x="713" y="0" width="734" height="877" key="dock-window-1" timestamp="1652529397423">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state x="94" y="51" key="new project wizard/0.0.1440.870@0.0.1440.870" timestamp="1650250887317" />
-    <state x="383" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1650443222505">
+    <state x="713" y="0" width="734" height="877" key="dock-window-1/0.0.1440.870@0.0.1440.870" timestamp="1652529397423" />
+    <state x="94" y="51" key="new project wizard" timestamp="1652448936552">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state x="383" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1440.870@0.0.1440.870" timestamp="1650443222505" />
+    <state x="94" y="51" key="new project wizard/0.0.1440.870@0.0.1440.870" timestamp="1652448936552" />
+    <state x="383" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1652531366316">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="383" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1440.870@0.0.1440.870" timestamp="1652531366316" />
   </component>
 </project>
